@@ -40,13 +40,14 @@
 # About me
 
 <p>
-  <img align="right" width="200" src="https://img.freepik.com/free-vector/illustrated-hacker-activity-concept_23-2148534299.jpg" alt="Coding gif" />
-  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br /><br />
-  ❤️ &emsp; Love to writing code and learning new features<br /><br />
-  📧 &emsp; Reach me anytime: tekbhatt1@gmail.com<br /><br />
-  💬 &emsp; Ask me about anything [here](https://github.com/tekrajbhatta)
+  <img align="right" width="230" src="https://img.freepik.com/free-vector/illustrated-hacker-activity-concept_23-2148534299.jpg" alt="Coding gif" />
+  ✅ &emsp; Enjoy to do programming and sharing knowledge <br /><br />
+  ✅ &emsp; Love to writing code and learning new features<br /><br />
+  ✅ &emsp; Reach me anytime: tekbhatt1@gmail.com<br /><br />
+  ✅ &emsp; Ask me about anything [here](https://github.com/tekrajbhatta)
 </p>
 
+# Short Introduction
 <p align="center">
   Full-stack web developer with 5+ years of experience building websites and web applications. Skilled in both front-end and back-end development, with expertise in DevOps and AWS cloud services.
 </p>
