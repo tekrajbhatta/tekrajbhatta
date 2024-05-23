@@ -45,7 +45,7 @@
 </p>
 
 ## Introduction
-<p align="center">
+<p align="left">
   Full-stack web developer with 5+ years of experience building websites and web applications. Skilled in both front-end and back-end development, with expertise in DevOps and AWS cloud services.
 </p>
 
@@ -77,12 +77,13 @@
 
 <br/>
 
-### Support:
-<p><a href="https://www.buymeacoffee.com/tekrajbhatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tekrajbhatt" /></a></p>
+## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekrajbhatta&show_icons=true&locale=en&layout=compact" alt="tekrajbhatta" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekrajbhatta&show_icons=true&locale=en&layout=compact" alt="tekrajbhatta" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tekrajbhatta&show_icons=true&locale=en" alt="tekrajbhatta" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tekrajbhatta&show_icons=true&locale=en" alt="tekrajbhatta" /></p>
 <br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tekrajbhatta&" alt="tekrajbhatta" /></p>
 <br><br>
+
+## Support:
+<p><a href="https://www.buymeacoffee.com/tekrajbhatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tekrajbhatt" /></a></p>
