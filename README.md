@@ -43,6 +43,7 @@
   ✅ &emsp; Reach me anytime: tekbhatt1@gmail.com<br /><br />
   ✅ &emsp; Ask me about anything [here](https://github.com/tekrajbhatta)
 </p>
+<br />
 
 ## Introduction
 <p align="left">
