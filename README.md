@@ -73,13 +73,11 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+<br />
 
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekrajbhatta&show_icons=true&locale=en&layout=compact" alt="tekrajbhatta" /></p>
-<br />
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tekrajbhatta&show_icons=true&locale=en" alt="tekrajbhatta" /></p>
-<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tekrajbhatta&show_icons=true&locale=en" alt="tekrajbhatta" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tekrajbhatta&" alt="tekrajbhatta" /></p>
 <br />
 
