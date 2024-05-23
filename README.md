@@ -10,7 +10,7 @@
 </samp>
 </p>
 
-### Connect with me:
+## Connect with me:
 <p align="left"></p>
 
 <!-- Social Links Section -->
@@ -37,7 +37,7 @@
 <br />
 
 <!-- About Section -->
-# About me
+## About me
 
 <p>
   <img align="right" width="230" src="https://img.freepik.com/free-vector/illustrated-hacker-activity-concept_23-2148534299.jpg" alt="Coding gif" />
@@ -47,7 +47,7 @@
   ✅ &emsp; Ask me about anything [here](https://github.com/tekrajbhatta)
 </p>
 
-# Short Introduction
+## Introduction
 <p align="center">
   Full-stack web developer with 5+ years of experience building websites and web applications. Skilled in both front-end and back-end development, with expertise in DevOps and AWS cloud services.
 </p>
