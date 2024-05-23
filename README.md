@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-
-      <!-- Intro  -->
+     <!-- Intro  -->
     <h3 align="center">
         <samp>&gt; Hey There 👋, I am
                 <b><a target="_blank" href="#">Tek Raj Bhatt</a></b>
@@ -110,6 +99,3 @@
     <h3 align="left">Support:</h3>
     <p><a href="https://ko-fi.com/Saggy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
                 width="210" alt="Saggy" /></a></p><br><br>
-</body>
-
-</html>
