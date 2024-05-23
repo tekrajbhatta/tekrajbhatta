@@ -37,7 +37,7 @@
 ## About me
 
 <p>
-  <img align="right" width="200" src="https://img.freepik.com/free-vector/illustrated-hacker-activity-concept_23-2148534299.jpg" alt="Coding gif" />
+  <img align="right" width="150" src="https://img.freepik.com/free-vector/illustrated-hacker-activity-concept_23-2148534299.jpg" alt="Coding gif" />
   ✅ &emsp; Enjoy to do programming and sharing knowledge <br /><br />
   ✅ &emsp; Love to writing code and learning new features<br /><br />
   ✅ &emsp; Reach me anytime: tekbhatt1@gmail.com<br /><br />
@@ -76,12 +76,12 @@
 <br/>
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekrajbhatta&show_icons=true&locale=en&layout=compact" alt="tekrajbhatta" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tekrajbhatta&show_icons=true&locale=en" alt="tekrajbhatta" /></p>
-<br /><br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekrajbhatta&show_icons=true&locale=en&layout=compact" alt="tekrajbhatta" /></p>
+<br />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tekrajbhatta&show_icons=true&locale=en" alt="tekrajbhatta" /></p>
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tekrajbhatta&" alt="tekrajbhatta" /></p>
-<br /><br />
+<br />
 
 ## Support:
 <p><a href="https://www.buymeacoffee.com/tekrajbhatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tekrajbhatt" /></a></p>
