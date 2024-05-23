@@ -81,5 +81,11 @@
 <br/>
 
 ### Support:
-<p><a href="https://ko-fi.com/Saggy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Saggy" /></a></p>
+<p><a href="https://www.buymeacoffee.com/tekrajbhatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tekrajbhatt" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekrajbhatta&show_icons=true&locale=en&layout=compact" alt="tekrajbhatta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekrajbhatta&show_icons=true&locale=en" alt="tekrajbhatta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tekrajbhatta&" alt="tekrajbhatta" /></p>
 <br><br>
