@@ -1,5 +1,5 @@
 <!-- Intro  -->
-### <div align="center"><samp>&gt; Hey There 👋, I am <b><a target="_blank" href="#">Tek Raj Bhatt</a></b></samp></div>
+### <div align="center"><samp>Hey There 👋, I am <b><a target="_blank" href="#">Tek Raj Bhatt</a></b></samp></div>
 
 <p align="center">
 <samp>
@@ -40,7 +40,7 @@
 # About me
 
 <p>
-  <img align="right" width="350" src="https://img.freepik.com/free-vector/illustrated-hacker-activity-concept_23-2148534299.jpg" alt="Coding gif" />
+  <img align="right" width="250" src="https://img.freepik.com/free-vector/illustrated-hacker-activity-concept_23-2148534299.jpg" alt="Coding gif" />
   ✌️ &emsp; Enjoy to do programming and sharing knowledge <br /><br />
   ❤️ &emsp; Love to writing code and learning new features<br /><br />
   📧 &emsp; Reach me anytime: tekbhatt1@gmail.com<br /><br />
