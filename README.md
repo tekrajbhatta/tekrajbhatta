@@ -10,6 +10,10 @@
 </samp>
 </p>
 
+<br />
+<a href="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits" align="middle" alt="Visits"></a>
+<br />
+
 ## Connect with me:
 <p align="left"></p>
 
