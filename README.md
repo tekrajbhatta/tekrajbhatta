@@ -81,7 +81,7 @@
 <br />
 
 ## Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekrajbhatta&show_icons=true&locale=en&layout=compact" alt="tekrajbhatta" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekrajbhatta&show_icons=true&locale=en&layout=compact&langs_count=20" alt="tekrajbhatta" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tekrajbhatta&show_icons=true&locale=en" alt="tekrajbhatta" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tekrajbhatta&" alt="tekrajbhatta" /></p>
 <br />
