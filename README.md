@@ -51,9 +51,40 @@
 
 ## Introduction
 <p align="left">
-  Full-stack web developer with 5+ years of experience building websites and web applications. Skilled in both front-end and back-end development, with expertise in DevOps and AWS cloud services.
+  I am a highly skilled and experienced WordPress / Full-Stack Web Developer, currently open for freelance remote work. With over 6 years of professional experience, I've successfully completed projects for clients across the United States, Canada, Australia, and other parts of the world. My work spans front-end and back-end development, web performance optimization, SEO, security, DevOps, and server management. I value clear communication, reliability, and delivering quality results on time.
 </p>
+
 <br />
+
+## ♨️ Web Development Expertise
+<p align="left">
+  I specialize in turning ideas into fully functional digital experiences—whether it’s developing a new website, redesigning an existing one, or building custom web applications. I leverage the latest technologies to bring your vision to life efficiently and effectively.
+</p>
+
+<br />
+
+## 🔑 Highlighted Skills
+- 🔷 WordPress / Elementor / WooCommerce / Gutenberg  
+- 🔷 Web Design / UI/UX / Figma / Adobe Photoshop  
+- 🔷 Drupal (7/8/9/10)  
+- 🔷 HTML / CSS  
+- 🔷 JavaScript / jQuery / AJAX  
+- 🔷 React / Redux  
+- 🔷 PHP / Laravel  
+- 🔷 MySQL / MongoDB  
+- 🔷 API Integration  
+- 🔷 Git / GitHub  
+- 🔷 Linux / Docker  
+- 🔷 Apache / NGINX  
+- 🔷 Cloud Services: AWS (S3, EC2, RDS, Route 53, CloudFormation), DigitalOcean  
+- 🔷 Project Management Tools & Practices  
+
+<br />
+
+## 🎨 Design, Development & Optimization
+<p align="left">
+  I bring deep expertise in WordPress development, UI/UX design, landing page creation, SEO, performance tuning, and server-side optimization. Whether you're building a fast-loading site, integrating complex APIs, or ensuring scalable infrastructure—I can help you get there.
+</p>
 
 ## Use To Code
 
